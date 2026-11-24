@@ -59,4 +59,5 @@ print('---New function---')
 group_by(9)
 group_by(6)
 group_by(7)
+group_by(8)
   
